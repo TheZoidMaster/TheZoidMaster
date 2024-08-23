@@ -9,7 +9,7 @@ welcome to my github! i'm a programmer who loves messing around with code, build
 ## some of my current projects:
 - working on an [anki cozmo revival](https://github.com/RazuProject/) (still a wip)
 - "maintaining" a [vencord fork](https://github.com/Zoidcord/Zoidcord)
-- ***[REDACTED]***
+- a large minecraft content mod that adds ***[REDACTED]*** to the ***[DATA EXPUNGED]***
 
 feel free to browse around, fork something, or drop me a message. i'm always up for a chat about code, gaming, or anything really.
 
