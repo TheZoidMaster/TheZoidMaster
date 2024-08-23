@@ -14,8 +14,8 @@ welcome to my github! i'm a programmer who loves messing around with code, build
 feel free to browse around, fork something, or drop me a message. i'm always up for a chat about code, gaming, or anything really.
 
 ## my stats:
-<div style="display: flex; flex-wrap: wrap;">
-  <picture>
+<div style="display: flex; flex-direction: row; justify-content: space-between; flex-wrap: wrap;">
+  <picture style="flex: 1; min-width: 300px; max-width: 48%;">
     <source
       srcset="https://github-readme-stats.vercel.app/api?username=thezoidmaster&show_icons=true&theme=dark"
       media="(prefers-color-scheme: dark)"
@@ -26,10 +26,11 @@ feel free to browse around, fork something, or drop me a message. i'm always up 
     />
     <img
       src="https://github-readme-stats.vercel.app/api?username=thezoidmaster&show_icons=true"
+      style="width: 100%; height: auto;"
     />
   </picture>
 
-  <picture>
+  <picture style="flex: 1; min-width: 300px; max-width: 48%;">
     <source
       srcset="https://github-readme-streak-stats.herokuapp.com/?user=thezoidmaster&theme=dark"
       media="(prefers-color-scheme: dark)"
@@ -40,6 +41,7 @@ feel free to browse around, fork something, or drop me a message. i'm always up 
     />
     <img
       src="https://github-readme-streak-stats.herokuapp.com/?user=thezoidmaster"
+      style="width: 100%; height: auto;"
     />
   </picture>
 </div>
