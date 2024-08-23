@@ -14,32 +14,32 @@ welcome to my github! i'm a programmer who loves messing around with code, build
 feel free to browse around, fork something, or drop me a message. i'm always up for a chat about code, gaming, or anything really.
 
 ## my stats:
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=thezoidmaster&show_icons=true&theme=dark&hide_border=true"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=thezoidmaster&show_icons=true&hide_border=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=thezoidmaster&show_icons=true&hide_border=true"
-    style="height: 165px;"
-  />
-</picture>
+<div style="display: flex; flex-wrap: wrap;">
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=thezoidmaster&show_icons=true&theme=dark"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=thezoidmaster&show_icons=true"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img
+      src="https://github-readme-stats.vercel.app/api?username=thezoidmaster&show_icons=true"
+    />
+  </picture>
 
-<picture>
-  <source
-    srcset="https://github-readme-streak-stats.herokuapp.com/?user=thezoidmaster&theme=dark&hide_border=true"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-streak-stats.herokuapp.com/?user=thezoidmaster&hide_border=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=thezoidmaster&hide_border=true"
-    style="height: 165px;"
-  />
-</picture>
+  <picture>
+    <source
+      srcset="https://github-readme-streak-stats.herokuapp.com/?user=thezoidmaster&theme=dark"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-streak-stats.herokuapp.com/?user=thezoidmaster"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img
+      src="https://github-readme-streak-stats.herokuapp.com/?user=thezoidmaster"
+    />
+  </picture>
+</div>
