@@ -2,7 +2,7 @@
 welcome to my github! i'm a programmer who loves messing around with code, building random projects, and sometimes making games. you’ll find a mix of everything here—minecraft mods, lua scripts, and maybe some goofy discord bots.
 
 ## what i'm into:
-- coding: my top languages (according to vscode) are lua, python, java, and typescript
+- coding: my top languages (according to vscode anyways) are lua, python, java, and typescript
 - gaming: big into minecraft, sometimes making mods for it
 - tech tinkering: always trying to make something work better (or break it more creatively)
 
