@@ -23,7 +23,10 @@ feel free to browse around, fork something, or drop me a message. i'm always up 
     srcset="https://github-readme-stats.vercel.app/api?username=thezoidmaster&show_icons=true&hide_border=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=thezoidmaster&show_icons=true&hide_border=true" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=thezoidmaster&show_icons=true&hide_border=true"
+    style="height: 165px;"
+  />
 </picture>
 
 <picture>
@@ -35,5 +38,8 @@ feel free to browse around, fork something, or drop me a message. i'm always up 
     srcset="https://github-readme-streak-stats.herokuapp.com/?user=thezoidmaster&hide_border=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thezoidmaster&hide_border=true" />
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=thezoidmaster&hide_border=true"
+    style="height: 165px;"
+  />
 </picture>
