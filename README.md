@@ -9,7 +9,7 @@ welcome to my github! i'm a programmer who loves messing around with code, build
 ## some of my current projects:
 - working on an [anki cozmo revival](https://github.com/RazuProject/) (still a wip)
 - "maintaining" a [discord client mod](https://github.com/Nexulien/Nexulien)
-- a large minecraft content mod that adds a ton of new stuff to the oceans
+- ~~a large minecraft content mod that adds a ton of new stuff to the oceans~~ this has moved to [astrinox](https://github.com/Astrinox)
 
 feel free to browse around, fork something, or drop me a message. i'm always up for a chat about code, gaming, or anything really.
 
