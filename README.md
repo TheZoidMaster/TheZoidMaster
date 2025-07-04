@@ -21,7 +21,6 @@ welcome to the hellhole that is my github profile. you cant find much here becau
 * again, probably more that im too tired to remember
 ## stuff that i work on that *isnt* on my profile
 * nexulien -- a vencord fork run by someone other than vendicated, with some other cool features like a ui overhaul
-* razu -- an anki cozmo revival project (though it seems to have gone mostly inactive)
 * astrinox -- minecraft modding organization that desperately needs cpr
 * gkko (gecko) -- nothing to be concerned about yet, in fact, none of that stuff is public yet so good luck figuring out what it is :trollface:
 * martyrdome -- [redacted]
