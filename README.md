@@ -1,8 +1,8 @@
 # hi i'm zoid :wave:
-welcome to the hellhole that is my github profile. you cant find much here because most of my projects are private until i deem them ready for the public. most, if not all of my stuff is wip. even me.
+welcome to the hellhole that is my github profile. you cant find much here because most of my projects are private until i deem them ready for the public. most, if not all of my stuff is wip.
 ## stuff im interested in:
-* languages like python, lua, c#, typescript, and javascript. (i know more than this but i dont use them much at all)
-* games such as (but ofc not limited to) minecraft, roblox, some vr stuff like beat saber, and staring at the ceiling until i question why i exist. yknow, the regular stuff.
+* languages like python, lua, c#, typescript, and java. (i know more than this but i dont use them much at all)
+* games such as (but ofc not limited to) minecraft, roblox, and some vr stuff like beat saber.
 * absolutely destroying things. watching computers break is quite fun ([rtc](https://redscientist.com/rtc) my beloved)
 * music, music, and more music (more specifically, tally hall and similar ig)
 * art. i still need to convince myself to start learning but art is cool :3
@@ -13,9 +13,9 @@ welcome to the hellhole that is my github profile. you cant find much here becau
 * botulism -- ~~a wip discord ai chatbot framework~~ (depricated in favor of hivemind)
 * nullify -- wip spotify integration for skipping specific songs/artists/albums
 * my site's source ([zoid.one](https://zoid.one) btw. also check out [jae's page](https://jae.zoid.one/))
-* cee -- a (heavily wip) rewrite of [@jaegerwalddev](https://github.com/jaegerwalddev)'s kee, an encryption language
-* [figura](https://modrinth.com/mod/figura) libraries (only an ik library atm)
-* some random ass minecraft mods that probably dont work anymore
+* cee -- a c# rewrite of [@jaegerwalddev](https://github.com/jaegerwalddev)'s kee, an encryption language
+* [figura](https://modrinth.com/mod/figura) libraries (only an inverse kinematics library atm)
+* some random ass minecraft mods that definitely dont work anymore
 * keelib (depricated) -- python library for kee
 * some other random stuff that no one will be interested in
 * again, probably more that im too tired to remember
