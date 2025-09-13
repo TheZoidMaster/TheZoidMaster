@@ -12,7 +12,7 @@ welcome to the hellhole that is my github profile. you cant find much here becau
 ## the few things you *can* find on my profile:
 * botulism -- ~~a wip discord ai chatbot framework~~ (depricated in favor of hivemind)
 * nullify -- wip spotify integration for skipping specific songs/artists/albums
-* my site's source ([zoid.one](https://zoid.one) btw. also check out [jae's page](https://jae.zoid.one/))
+* my old site's source ([zoid.one](https://zoid.one) btw.)
 * cee -- a c# rewrite of [@jaegerwalddev](https://github.com/jaegerwalddev)'s kee, an encryption language
 * [figura](https://modrinth.com/mod/figura) libraries (only an inverse kinematics library atm)
 * some random ass minecraft mods that definitely dont work anymore
